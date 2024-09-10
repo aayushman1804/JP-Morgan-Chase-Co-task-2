@@ -7,10 +7,6 @@
 </head>
 <body>
 
-<header>
-    J.P. Morgan Virtual Experience <br> Task 1: Stock Price Data Feed
-</header>
-
 <div class="container">
     <h1>Overview</h1>
     <p>
